@@ -1,0 +1,6 @@
+{
+    "name": "gopher",
+    "paths": ["."],
+    "entrypoint": "gopher",
+    "dependencies": {}
+}
